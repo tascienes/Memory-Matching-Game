@@ -1,0 +1,10 @@
+C:\Users\jagua\Desktop\C# PROJELER\EslestirmeOyun\EslestirmeOyun\bin\Release\EslestirmeOyun.exe.config
+C:\Users\jagua\Desktop\C# PROJELER\EslestirmeOyun\EslestirmeOyun\bin\Release\EslestirmeOyun.exe
+C:\Users\jagua\Desktop\C# PROJELER\EslestirmeOyun\EslestirmeOyun\bin\Release\EslestirmeOyun.pdb
+C:\Users\jagua\Desktop\C# PROJELER\EslestirmeOyun\EslestirmeOyun\obj\Release\EslestirmeOyun.csprojAssemblyReference.cache
+C:\Users\jagua\Desktop\C# PROJELER\EslestirmeOyun\EslestirmeOyun\obj\Release\EslestirmeOyun.Form1.resources
+C:\Users\jagua\Desktop\C# PROJELER\EslestirmeOyun\EslestirmeOyun\obj\Release\EslestirmeOyun.Properties.Resources.resources
+C:\Users\jagua\Desktop\C# PROJELER\EslestirmeOyun\EslestirmeOyun\obj\Release\EslestirmeOyun.csproj.GenerateResource.cache
+C:\Users\jagua\Desktop\C# PROJELER\EslestirmeOyun\EslestirmeOyun\obj\Release\EslestirmeOyun.csproj.CoreCompileInputs.cache
+C:\Users\jagua\Desktop\C# PROJELER\EslestirmeOyun\EslestirmeOyun\obj\Release\EslestirmeOyun.exe
+C:\Users\jagua\Desktop\C# PROJELER\EslestirmeOyun\EslestirmeOyun\obj\Release\EslestirmeOyun.pdb

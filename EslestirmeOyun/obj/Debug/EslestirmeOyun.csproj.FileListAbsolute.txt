@@ -1,0 +1,20 @@
+C:\Users\jagua\Desktop\C# PROJELER\EslestirmeOyun\EslestirmeOyun\bin\Debug\EslestirmeOyun.exe.config
+C:\Users\jagua\Desktop\C# PROJELER\EslestirmeOyun\EslestirmeOyun\bin\Debug\EslestirmeOyun.exe
+C:\Users\jagua\Desktop\C# PROJELER\EslestirmeOyun\EslestirmeOyun\bin\Debug\EslestirmeOyun.pdb
+C:\Users\jagua\Desktop\C# PROJELER\EslestirmeOyun\EslestirmeOyun\obj\Debug\EslestirmeOyun.csprojAssemblyReference.cache
+C:\Users\jagua\Desktop\C# PROJELER\EslestirmeOyun\EslestirmeOyun\obj\Debug\EslestirmeOyun.Form1.resources
+C:\Users\jagua\Desktop\C# PROJELER\EslestirmeOyun\EslestirmeOyun\obj\Debug\EslestirmeOyun.Properties.Resources.resources
+C:\Users\jagua\Desktop\C# PROJELER\EslestirmeOyun\EslestirmeOyun\obj\Debug\EslestirmeOyun.csproj.GenerateResource.cache
+C:\Users\jagua\Desktop\C# PROJELER\EslestirmeOyun\EslestirmeOyun\obj\Debug\EslestirmeOyun.csproj.CoreCompileInputs.cache
+C:\Users\jagua\Desktop\C# PROJELER\EslestirmeOyun\EslestirmeOyun\obj\Debug\EslestirmeOyun.exe
+C:\Users\jagua\Desktop\C# PROJELER\EslestirmeOyun\EslestirmeOyun\obj\Debug\EslestirmeOyun.pdb
+C:\Users\jagua\Desktop\Ivır Zıvır\C# PROJELER\EslestirmeOyun\EslestirmeOyun\bin\Debug\EslestirmeOyun.exe.config
+C:\Users\jagua\Desktop\Ivır Zıvır\C# PROJELER\EslestirmeOyun\EslestirmeOyun\bin\Debug\EslestirmeOyun.exe
+C:\Users\jagua\Desktop\Ivır Zıvır\C# PROJELER\EslestirmeOyun\EslestirmeOyun\bin\Debug\EslestirmeOyun.pdb
+C:\Users\jagua\Desktop\Ivır Zıvır\C# PROJELER\EslestirmeOyun\EslestirmeOyun\obj\Debug\EslestirmeOyun.csprojAssemblyReference.cache
+C:\Users\jagua\Desktop\Ivır Zıvır\C# PROJELER\EslestirmeOyun\EslestirmeOyun\obj\Debug\EslestirmeOyun.Form1.resources
+C:\Users\jagua\Desktop\Ivır Zıvır\C# PROJELER\EslestirmeOyun\EslestirmeOyun\obj\Debug\EslestirmeOyun.Properties.Resources.resources
+C:\Users\jagua\Desktop\Ivır Zıvır\C# PROJELER\EslestirmeOyun\EslestirmeOyun\obj\Debug\EslestirmeOyun.csproj.GenerateResource.cache
+C:\Users\jagua\Desktop\Ivır Zıvır\C# PROJELER\EslestirmeOyun\EslestirmeOyun\obj\Debug\EslestirmeOyun.csproj.CoreCompileInputs.cache
+C:\Users\jagua\Desktop\Ivır Zıvır\C# PROJELER\EslestirmeOyun\EslestirmeOyun\obj\Debug\EslestirmeOyun.exe
+C:\Users\jagua\Desktop\Ivır Zıvır\C# PROJELER\EslestirmeOyun\EslestirmeOyun\obj\Debug\EslestirmeOyun.pdb
